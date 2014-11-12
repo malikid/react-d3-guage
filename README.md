@@ -10,6 +10,15 @@ d3 guage using React library.
 
 (Not yet, just a trial version.)
 
+- Pull this repository.
+
+- Execute command below on Terminal.
+```
+grunt server
+```
+
+- That's it!
+
 ###Example
 
 ![alt tag](example.png)
