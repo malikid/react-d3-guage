@@ -1,0 +1,31 @@
+{
+  "name": "react-d3-guage",
+  "version": "0.0.1",
+  "description": "d3 Guage.",
+  "keywords": [
+    "react",
+    "d3",
+    "chart",
+    "pie chart",
+    "donut chart",
+    "guage"
+  ],
+  "authors": [
+    "jaketrent",
+    "mak"
+  ],
+  "license": "MIT",
+  "main": [
+    "dist/d3Guage.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.11"
+  }
+}
